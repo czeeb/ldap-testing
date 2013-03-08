@@ -1,3 +1,9 @@
 [submodule "puppet/modules/apt"]
 	path = puppet/modules/apt
 	url = https://github.com/zamnetwork/puppet-apt.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/zamnetwork/puppet-stdlib.git
+[submodule "puppet/modules/pamldap"]
+	path = puppet/modules/pamldap
+	url = git://github.com/erwbgy/puppet-pamldap.git
